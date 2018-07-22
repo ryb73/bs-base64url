@@ -1,0 +1,11 @@
+{
+    "name" : "bs-base64url",
+    "sources" : [
+        { "dir" : "src" },
+        {
+            "dir": "test",
+            "type": "dev"
+        }
+    ],
+    "bsc-flags": [ "-w -10", "-bs-super-errors" ]
+}
