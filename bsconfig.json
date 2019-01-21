@@ -1,5 +1,5 @@
 {
-    "name" : "bs-base64url",
+    "name" : "@ryb73/bs-base64url",
     "sources" : [
         { "dir" : "src" },
         {
