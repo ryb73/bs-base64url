@@ -11,7 +11,7 @@
     "postinstall": "[ ! -f package-links.json ] || ppl link-file"
   },
   "files": [
-    "/bsconfig",
+    "/bsconfig.json",
     "/src",
     "/lib/js/src"
   ],
