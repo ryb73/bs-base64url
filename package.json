@@ -1,6 +1,6 @@
 {
   "name": "@ryb73/bs-base64url",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "BuckleScript bindings for base64url",
   "main": "index.js",
   "scripts": {
