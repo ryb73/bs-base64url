@@ -13,6 +13,6 @@ npm install @ryb73/bs-base64url
 
 ## How do I use it?
 ```reason
-BsBase64Url.fromString("hello reasona");
-/* GVsbG8gcmVhc29u */
+BsBase64Url.fromString("hello reason");
+/* aGVsbG8gcmVhc29u */
 ```
