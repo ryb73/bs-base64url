@@ -11,7 +11,7 @@ deploy:
   provider: npm
   email: rpbiwer@gmail.com
   on:
-    # tags: true
+    tags: true
     branch: master
   api_key:
     secure: nQCvdxzeD1EfO2GHN87uJj8PQCCroblyMXNZkvqbk1St1XoEhNRgE06gOVb50x81q8aA2LDF5if2NP2oLou1F5FS8DKiFulocWm65tYkdAUdPhc3R+/2RdwUDMq6KddBdmVlzgl6skAvUTAfkfwH6LFC0AagsRviYpIy7f16mlsQnNITI037zPdOkVKgI0AShxdvmnkGzTj7WK/4tqq5NNaLPiz+Q7XUbljolU9nrxSds/zAivdK99o7SjQlsZz8vbkS9q62QBOfSD0xtpKV4/jjF1GnF1JaLnMt4S14i4WOYi9ZnlC/xaELBrzsXVw5sT4/EjYADal5gxw17zi9LWEgjq0KFzjlXnGhiFj1lNoUqibCCaGWMQZM7A/J+V9CJljSTNH3xOevL8EpYMgGZsWStug5k3ERD/c8PcbxZigXPjld0NBYXABIHqHSt3e/Mcmfw82bh7B+eS/a6fPXBbW2UsZ7zNkU2HXURD2sjJdnMVwt0DFwwYMUpco5bT98FZeWH82IA6z6NV4qsoA8LMPhxrBH/5fQv/LilE5Pmc2VgzZkP1j5E6qATm1za1jsi2WjpCpbppXmJqgllYpAAcKhCSLXcknotpLnPPN8IMqloGu8o135T4JTeaNETGh9ELqaPEM1+X7kMkfDYqc/HfgmiZaFREQsoEo9jzfHbqE=
