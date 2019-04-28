@@ -24,9 +24,9 @@
     "url": "git@github.com:ryb73/bs-base64url.git"
   },
   "peerDependencies": {
-    "bs-platform": "^4.0.0"
+    "bs-platform": "^5.0.0"
   },
   "dependencies": {
-    "base64url": "^2.0.0"
+    "base64url": "^3.0.1"
   }
 }
